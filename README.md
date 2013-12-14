@@ -1,3 +1,5 @@
 #One Month Rails
 
-Pinteresting Applicatio
+Pinteresting Application
+
+by Michael Sorm
